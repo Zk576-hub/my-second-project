@@ -1,0 +1,18 @@
+# Next.js
+.next/
+out/
+
+# deps
+node_modules/
+
+# env — NEVER commit real keys
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Vercel
+.vercel
